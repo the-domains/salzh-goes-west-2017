@@ -1,0 +1,86 @@
+layout_spectrum: 0.08214668369787459
+typography_spectrum: 0.03893523266059484
+color:
+  brandStrength: 0.6132302948650857
+  lightness: 0.619330328109001
+  saturation: 0.3929249675456656
+  rhythmicContrast: 0.7700528803159769
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: SalZH goes West 2017
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36fc6e1d-8e29-4709-80c4-2866c23d1ff8.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/36fc6e1d-8e29-4709-80c4-2866c23d1ff8.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04a4e0eb-dd0b-40dc-81bd-fbf33431a1d2.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/04a4e0eb-dd0b-40dc-81bd-fbf33431a1d2.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: SalZH goes West 2017
+description: ''
+purpose:
+  - type: contact
+    url: 'mailto:lbaer@salzh.ch'
+    label: Contact me
+  - type: external
+    url: 'http://www.salzh.ch'
+    label: www.salzh.ch
+author:
+  url: 'http://www.salzh.ch'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/175e407f-d352-40fd-a807-364b7e197a55.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/91239c69-c417-4d6e-9773-da48d3b9bcfb.gif
+github: true
